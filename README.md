@@ -1,4 +1,4 @@
-# flutterpratice
+# FlutterPratice
 
 A new Flutter project.
 
