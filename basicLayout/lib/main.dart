@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutterpratice/widgets/button.dart';
-import 'package:flutterpratice/widgets/currency_card.dart';
 
 class Player {
   String name;
