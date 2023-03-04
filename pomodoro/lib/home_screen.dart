@@ -53,6 +53,7 @@ class _HomeScreenState extends State<HomeScreen> {
     setState(() {
       totalSeconds = twentyFiveMinutes;
       isRunning = false;
+      timer.cancel();
     });
   }
 
